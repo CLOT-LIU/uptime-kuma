@@ -51,7 +51,7 @@ Required Tools: Node.js >= 14, git and pm2.
 # Update your npm to the latest version
 npm install npm -g
 
-git clone https://github.com/louislam/uptime-kuma.git
+githttps://github.com/CLOT-LIU/uptime-kuma.git
 cd uptime-kuma
 npm run setup
 
