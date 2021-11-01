@@ -23,6 +23,7 @@ export default {
     Theme: "主题",
     General: "基本设置",
     "Primary Base URL": "站点地址（URL）",
+    "Steam API Key": "Steam API 密钥",
     Version: "版本",
     "Check Update On GitHub": "检查更新",
     List: "列表",
