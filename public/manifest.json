@@ -1,6 +1,6 @@
 {
-    "name": "LIU",
-    "short_name": "LIU",
+    "name": "LIU的服务监控",
+    "short_name": "LIU的服务监控",
     "start_url": "/",
     "background_color": "#fff",
     "display": "standalone",
